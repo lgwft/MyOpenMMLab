@@ -4,5 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/homework_1_mmpose/mmdetection" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/homework_1_mmpose/mmpose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework_2_mmpretrain/mmpretrain" vcs="Git" />
   </component>
 </project>
