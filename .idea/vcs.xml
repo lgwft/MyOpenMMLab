@@ -5,5 +5,9 @@
     <mapping directory="$PROJECT_DIR$/homework_1_mmpose/mmdetection" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/homework_1_mmpose/mmpose" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/homework_2_mmpretrain/mmpretrain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework_3_mmdetection/mmdetection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework_3_mmdetection/mmyolo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework_4_mmseg/MMSegmentation_Tutorials" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homework_4_mmseg/mmsegmentation" vcs="Git" />
   </component>
 </project>
